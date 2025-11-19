@@ -1,17 +1,51 @@
-# Privacy Policy
+Privacy Policy
 
-**App name:** ThinkFast  
-**Contact:** arjunkhousi2003@gmail.com
+App Name: Prepare
+Contact: arjunkhousi2003@gmail.com
 
-1. **Information We Collect:** Account details (optional), quiz responses/scores, feedback, device info, app usage data, crash logs.  
+1. Information We Collect
 
-2. **No Sensitive Data:** Hum financial info, health, ya government ID nahi collect karte.  
+We may collect the following information:
 
-3. **How We Use Data:** App functionality, user experience improvement, feedback response, optional emails (password reset, account verification).  
+Optional account details (name, email, etc.)
 
-4. **Third Parties:** Hum analytics/crash reporting services use kar sakte hain (e.g., Firebase, Sentry). Ads/payments ke liye unki policies apply hongi.  
+Quiz responses and scores
 
-5. **Data Security & Retention:** Data securely store hota hai aur tab tak rakha jayega jab tak account active ho ya legal requirement ho. Aap support se contact karke delete request kar sakte hain.  
+User feedback submitted through the app
 
-6. **Children & Rights:** 13 saal se chhote users ke liye parent/guardian consent required hai. Users apna personal data access, update, ya delete kar sakte hain.
+Device information and app usage data
 
+Crash logs and diagnostic information
+
+2. No Sensitive Data
+
+We do not collect any sensitive personal information such as financial details, health data, Aadhaar/ID numbers, or biometric information.
+
+3. How We Use Your Information
+
+Your data may be used for:
+
+Operating and improving app features
+
+Tracking performance and enhancing user experience
+
+Responding to feedback or support requests
+
+Sending optional system emails (e.g., password reset, verification)
+
+4. Third-Party Services
+
+We may use trusted third-party services such as analytics or crash-reporting tools (e.g., Firebase, Sentry).
+These services may collect data as per their respective privacy policies.
+If ads or payments are implemented, their provider policies will also apply.
+
+5. Data Security & Retention
+
+All data is stored securely and retained only as long as necessary for app functionality, legal obligations, or until the user requests deletion.
+You may contact us anytime to request data deletion.
+
+6. Children’s Policy & User Rights
+
+The app is not intended for children under 13 without parental or guardian consent.
+
+Users have the right to access, update, or request deletion of their personal data at any time.
