@@ -1,6 +1,7 @@
 Privacy Policy
 
-App Name: Prepare
+App Name: Prepare -MCQ
+
 Contact: arjunkhousi2003@gmail.com
 
 1. Information We Collect
