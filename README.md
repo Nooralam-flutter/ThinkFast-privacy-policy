@@ -1,2 +1,2 @@
-# ThinkFast-privacy-policy
-ThinkFast-privacy-policy
+# Prepare-privacy-policy
+Prepare-privacy-policy
